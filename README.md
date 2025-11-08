@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi, I'm Oluwakemi Akinsiku 
+I'm Oluwakemi Akinsiku 
 
 🌱 Data Scientist || Healthcare & Life Sciences Enthusiast
 
