@@ -52,9 +52,7 @@ Domain Focus	Healthcare Analytics, Pharmaceutical Data, Research Data Analysis
 
 ✅Expanding my portfolio with health and pharmaceutical-related projects
 
-
 ✅Learning advanced ML techniques for real-world healthcare applications
-
 
 ✅Sharing insights and projects through GitHub and data notebooks
 
