@@ -9,7 +9,7 @@ I'm Oluwakemi Akinsiku
 
 🧬 About Me
 
-I’m a growing Data Scientist with a background in Botany (B.Sc.) and Pharmacognosy (M.Sc.), now exploring how data-driven insights can transform healthcare, pharmaceuticals, and life sciences.
+I’m a growing Data Scientist with a background in Botany (B.Sc.) and Pharmacognosy (M.Sc.), now exploring how data-driven insights can transform healthcare, pharmaceuticals, life sciences and agriculture.
 
 My academic journey began with studying plants and their medicinal properties, a path that sparked my curiosity about how data can uncover hidden patterns and drive innovation in human health.
 
